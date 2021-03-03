@@ -1,0 +1,24 @@
+,Abbreviation,Summary
+0,Name,Name of Team
+1,Year_D1,Years in D1 since 1987
+2,GP,Games Played
+3,PTS,Points Per Game
+4,PTSDiff,Average Points Differential Per Game
+5,Pct,Percentage of Games Won
+6,FG,Field Goal Percentage
+7,FG3,3-point Field Goal Percentage
+8,%FG3,Percentage of Points Scored From 3-point
+9,FG,2-point Field Goal Percentage
+10,%FG,Percentage of Points Scored From 2-point
+11,FT,Free Throw Percentage
+12,%FT,Percentage of Points Scored From Free Throw
+13,OR,Offensive Rebounds Per Game
+14,DR,Defensive Rebounds Per Game
+15,DR/OR,Ratio of Defensive Rebounds over Offensive Rebounds Per Game
+16,AST,Assists Per Game
+17,TO,Turnovers Per Game
+18,AST/TO,Ratio of Assists over Turnovers Per Game
+19,STL,Steals Per Game
+20,STL/TO,Ratio of Steals over Turnovers Per Game
+21,BLK,Blocks Per Game
+22,PF,Personal Fouls Per Game
